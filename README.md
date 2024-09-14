@@ -1,4 +1,4 @@
-# Simplex-Talk: TCP Client-Server Application
+# Client-Server Application with TCP sockets
 
 ## Overview
 
